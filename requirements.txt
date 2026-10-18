@@ -2,4 +2,4 @@ streamlit
 matplotlib
 scikit-learn
 pandas
-dataset
+datasets
